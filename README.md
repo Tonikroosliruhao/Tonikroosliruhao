@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m Li Ruhao, currently studying at the University of Hong Kong (MSc CS).
-- 👯 I’m currently interested in NLP, and learning about large language models.
+- 👯 I’m interested in NLP, and learning about large language models.
 - 🔭 I want to work in a position related to deep learning in the future.
 - 😄 Hope to find like-minded friends!
 - 📫 How to reach me: le_serien@163.com
